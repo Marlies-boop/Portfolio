@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Sedgwick+Ave+Display&display=swap");
+
+body{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-color: aquamarine;
+    padding: 45px;
+    height: 0vh;
+    overflow: hidden;
+}
+
+.logo{
+    margin-top: -6vh;
+}
+
+.navBar{
+    margin-top: -7vh;
+    text-align: center;
+}
