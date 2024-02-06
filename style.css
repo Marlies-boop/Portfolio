@@ -9,3 +9,12 @@ h1{
 .logo{
     font-weight: 700;
 }
+
+.carousel-height{
+    height: 200px;
+}
+
+.carousel-item img{
+    object-fit: cover;
+    max-height:50vh;
+}
