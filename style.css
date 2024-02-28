@@ -11,10 +11,10 @@ h1{
 }
 
 .carousel-height{
-    height: 100px;
+    height: 100%;
 }
 
 .carousel-item img{
     object-fit: cover;
-    max-height:50vh;
+    max-height:70vh;
 }
