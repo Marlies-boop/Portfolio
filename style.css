@@ -1,27 +1,16 @@
 body{
     font-family: 'Montserrat', sans-serif;
+    overflow-y: scroll;
 }
 
 h1{
     font-weight: 700;
 }
 
+a{
+    text-decoration: none;
+}
+
 .logo{
     font-weight: 700;
 }
-
-/*.carousel-height{
-    height: 100%;
-}
-
-.carousel-item{
-    overflow: hidden;
-    max-height: 70vh;
-    max-width: 800px;
-}
-
-.carousel-item img{
-    object-fit: cover;
-    max-height:70vh;
-    max-width: 100%;
-}*/
